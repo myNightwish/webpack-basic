@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "autoprefixer": "^10.4.2",
+    "css-loader": "^6.5.1",
+    "file-loader": "^6.2.0",
+    "less-loader": "^10.2.0",
+    "postcss": "^8.4.5",
+    "postcss-cli": "^9.1.0",
+    "postcss-loader": "^6.2.1",
+    "postcss-preset-env": "^7.2.3",
+    "style-loader": "^3.3.1",
+    "url-loader": "^4.1.1",
+    "webpack": "^5.47.1",
+    "webpack-cli": "^4.7.2"
+  },
+  "scripts": {
+    "build": "webpack --config lg.config.js"
+  },
+  "browserslist": [
+    ">1%",
+    "last 2 version",
+    "not dead"
+  ]
+}

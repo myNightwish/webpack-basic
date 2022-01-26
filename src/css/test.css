@@ -1,0 +1,4 @@
+.title {
+    transition: all 0.5s;
+    user-select: none;
+}

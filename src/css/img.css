@@ -1,0 +1,14 @@
+.bgbox {
+    width: 120px;
+    height: 120px;
+    border: 1px solid red;
+    background: url('../img/aa.jpeg');
+}
+
+.bgbox2 {
+    width: 100px;
+    height: 100px;
+    margin: 200px;
+    border: 1px solid blue;
+    background: url('../img/bb.jpeg');
+}

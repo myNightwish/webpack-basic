@@ -1,0 +1,6 @@
+@import './test.css';
+
+.title {
+    color: #12345678;   
+    background-color: rgba(155, 118, 70, 0.714);
+}
